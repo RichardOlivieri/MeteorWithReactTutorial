@@ -1,0 +1,286 @@
+{
+  "format": "javascript-image-pre1",
+  "arch": "os.windows.x86_32",
+  "load": [
+    {
+      "path": "packages/underscore.js"
+    },
+    {
+      "node_modules": "/C/Users/Richard/AppData/Local/.meteor/packages/meteor/1.1.12/npm/node_modules",
+      "path": "packages/meteor.js"
+    },
+    {
+      "path": "packages/meteor-base.js"
+    },
+    {
+      "path": "packages/mobile-experience.js"
+    },
+    {
+      "node_modules": "/C/Users/Richard/AppData/Local/.meteor/packages/npm-mongo/1.4.41/npm/node_modules",
+      "path": "packages/npm-mongo.js"
+    },
+    {
+      "path": "packages/base64.js"
+    },
+    {
+      "path": "packages/ejson.js"
+    },
+    {
+      "path": "packages/check.js"
+    },
+    {
+      "node_modules": "/C/Users/Richard/AppData/Local/.meteor/packages/babel-compiler/6.5.2/npm/node_modules",
+      "path": "packages/babel-compiler.js"
+    },
+    {
+      "sourceMap": "packages/ecmascript.js.map",
+      "path": "packages/ecmascript.js"
+    },
+    {
+      "path": "packages/id-map.js"
+    },
+    {
+      "path": "packages/ordered-dict.js"
+    },
+    {
+      "path": "packages/tracker.js"
+    },
+    {
+      "node_modules": "/C/Users/Richard/AppData/Local/.meteor/packages/modules-runtime/0.6.1/npm/node_modules",
+      "path": "packages/modules-runtime.js"
+    },
+    {
+      "path": "packages/modules.js"
+    },
+    {
+      "node_modules": "/C/Users/Richard/AppData/Local/.meteor/packages/es5-shim/4.5.8/npm/node_modules",
+      "path": "packages/es5-shim.js"
+    },
+    {
+      "node_modules": "/C/Users/Richard/AppData/Local/.meteor/packages/promise/0.6.5/npm/node_modules",
+      "path": "packages/promise.js"
+    },
+    {
+      "node_modules": "/C/Users/Richard/AppData/Local/.meteor/packages/ecmascript-runtime/0.2.8/npm/node_modules",
+      "path": "packages/ecmascript-runtime.js"
+    },
+    {
+      "node_modules": "/C/Users/Richard/AppData/Local/.meteor/packages/babel-runtime/0.1.6/npm/node_modules",
+      "path": "packages/babel-runtime.js"
+    },
+    {
+      "sourceMap": "packages/random.js.map",
+      "path": "packages/random.js"
+    },
+    {
+      "path": "packages/mongo-id.js"
+    },
+    {
+      "path": "packages/diff-sequence.js"
+    },
+    {
+      "path": "packages/geojson-utils.js"
+    },
+    {
+      "path": "packages/minimongo.js"
+    },
+    {
+      "path": "packages/retry.js"
+    },
+    {
+      "path": "packages/ddp-common.js"
+    },
+    {
+      "node_modules": "/C/Users/Richard/AppData/Local/.meteor/packages/ddp-client/1.2.3/npm/node_modules",
+      "path": "packages/ddp-client.js"
+    },
+    {
+      "path": "packages/rate-limit.js"
+    },
+    {
+      "path": "packages/ddp-rate-limiter.js"
+    },
+    {
+      "node_modules": "/C/Users/Richard/AppData/Local/.meteor/packages/logging/1.0.10/npm/node_modules",
+      "path": "packages/logging.js"
+    },
+    {
+      "path": "packages/routepolicy.js"
+    },
+    {
+      "path": "packages/deps.js"
+    },
+    {
+      "path": "packages/htmljs.js"
+    },
+    {
+      "path": "packages/html-tools.js"
+    },
+    {
+      "path": "packages/blaze-tools.js"
+    },
+    {
+      "path": "packages/spacebars-compiler.js"
+    },
+    {
+      "path": "packages/jquery.js"
+    },
+    {
+      "path": "packages/observe-sequence.js"
+    },
+    {
+      "path": "packages/reactive-var.js"
+    },
+    {
+      "path": "packages/blaze.js"
+    },
+    {
+      "path": "packages/spacebars.js"
+    },
+    {
+      "path": "packages/ui.js"
+    },
+    {
+      "path": "packages/boilerplate-generator.js",
+      "assets": {
+        "boilerplate_web.browser.html": "assets/packages/boilerplate-generator/boilerplate_web.browser.html",
+        "boilerplate_web.cordova.html": "assets/packages/boilerplate-generator/boilerplate_web.cordova.html"
+      }
+    },
+    {
+      "sourceMap": "packages/webapp-hashing.js.map",
+      "path": "packages/webapp-hashing.js"
+    },
+    {
+      "node_modules": "/C/Users/Richard/AppData/Local/.meteor/packages/webapp/1.2.6/npm/node_modules",
+      "sourceMap": "packages/webapp.js.map",
+      "path": "packages/webapp.js"
+    },
+    {
+      "path": "packages/callback-hook.js"
+    },
+    {
+      "node_modules": "/C/Users/Richard/AppData/Local/.meteor/packages/ddp-server/1.2.4/npm/node_modules",
+      "sourceMap": "packages/ddp-server.js.map",
+      "path": "packages/ddp-server.js"
+    },
+    {
+      "path": "packages/ddp.js"
+    },
+    {
+      "sourceMap": "packages/allow-deny.js.map",
+      "path": "packages/allow-deny.js"
+    },
+    {
+      "path": "packages/binary-heap.js"
+    },
+    {
+      "node_modules": "/C/Users/Richard/AppData/Local/.meteor/packages/mongo/1.1.5/npm/node_modules",
+      "sourceMap": "packages/mongo.js.map",
+      "path": "packages/mongo.js"
+    },
+    {
+      "path": "packages/blaze-html-templates.js"
+    },
+    {
+      "path": "packages/standard-minifier-css.js"
+    },
+    {
+      "path": "packages/standard-minifier-js.js"
+    },
+    {
+      "node_modules": "/C/Users/Richard/AppData/Local/.meteor/packages/tmeasday_check-npm-versions/0.2.0/npm/node_modules",
+      "sourceMap": "packages/tmeasday_check-npm-versions.js.map",
+      "path": "packages/tmeasday_check-npm-versions.js"
+    },
+    {
+      "sourceMap": "packages/react-meteor-data.js.map",
+      "path": "packages/react-meteor-data.js"
+    },
+    {
+      "path": "packages/accounts-ui.js"
+    },
+    {
+      "node_modules": "/C/Users/Richard/AppData/Local/.meteor/packages/npm-bcrypt/0.7.8_2/npm/node_modules",
+      "path": "packages/npm-bcrypt.js"
+    },
+    {
+      "sourceMap": "packages/accounts-base.js.map",
+      "path": "packages/accounts-base.js"
+    },
+    {
+      "path": "packages/sha.js"
+    },
+    {
+      "path": "packages/srp.js"
+    },
+    {
+      "node_modules": "/C/Users/Richard/AppData/Local/.meteor/packages/email/1.0.10/npm/node_modules",
+      "path": "packages/email.js"
+    },
+    {
+      "sourceMap": "packages/accounts-password.js.map",
+      "path": "packages/accounts-password.js"
+    },
+    {
+      "path": "packages/service-configuration.js"
+    },
+    {
+      "path": "packages/localstorage.js"
+    },
+    {
+      "path": "packages/url.js"
+    },
+    {
+      "path": "packages/oauth.js",
+      "assets": {
+        "end_of_popup_response.html": "assets/packages/oauth/end_of_popup_response.html",
+        "end_of_redirect_response.html": "assets/packages/oauth/end_of_redirect_response.html"
+      }
+    },
+    {
+      "path": "packages/accounts-oauth.js"
+    },
+    {
+      "path": "packages/oauth2.js"
+    },
+    {
+      "node_modules": "/C/Users/Richard/AppData/Local/.meteor/packages/http/1.1.3/npm/node_modules",
+      "sourceMap": "packages/http.js.map",
+      "path": "packages/http.js"
+    },
+    {
+      "path": "packages/facebook.js"
+    },
+    {
+      "path": "packages/accounts-facebook.js"
+    },
+    {
+      "path": "packages/livedata.js"
+    },
+    {
+      "path": "packages/hot-code-push.js"
+    },
+    {
+      "path": "packages/launch-screen.js"
+    },
+    {
+      "path": "packages/templating.js"
+    },
+    {
+      "path": "packages/autoupdate.js"
+    },
+    {
+      "path": "packages/reload.js"
+    },
+    {
+      "node_modules": "/C/Users/Richard/AppData/Local/.meteor/simple-todos/node_modules/",
+      "path": "packages/global-imports.js"
+    },
+    {
+      "node_modules": "/C/Users/Richard/AppData/Local/.meteor/simple-todos/node_modules/",
+      "sourceMap": "app/app.js.map",
+      "path": "app/app.js"
+    }
+  ]
+}
